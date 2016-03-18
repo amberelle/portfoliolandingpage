@@ -10,8 +10,8 @@ _The first code review project where I can demonstrate what I have learned this 
 
 ## Setup/Installation Requirements
 
-* _Open and enjoy_
-*
+ _Open and enjoy_
+
 
 
 ## Support and contact details
