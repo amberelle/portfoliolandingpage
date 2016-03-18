@@ -1,11 +1,44 @@
-body{
-  background-color: red;
-}
-
-h1{
-
-}
-
 .background{
   background-color: #FEEDDB;
+}
+
+#header{
+  background-color: white;
+  width:100%;
+  margin: auto;
+  padding-left: 5em;
+}
+
+.name{
+  font-family: 'Inconsolata';
+}
+
+img{
+  border-radius: 1em,0em,1em,0em;
+  padding-top: 2em;
+  float: right;
+}
+
+.textcolor {
+  font-size: 15px;
+  color: black;
+-webkit-text-fill-color: white;
+-webkit-text-stroke-width: .5px;
+-webkit-text-stroke-color: black;
+}
+
+.imgfloat {
+  float:right;
+}
+
+.color1 {
+  color: #037586;
+}
+
+.color2 {
+  color: #5DA982;
+}
+
+.color3 {
+  color: #1C623E;
 }
